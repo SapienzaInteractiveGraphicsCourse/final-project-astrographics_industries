@@ -28,5 +28,9 @@
 
 ### **Sounds Credits**
 - **Music:**
+    - "Deep Ocean Dream", generated with Suno AI (Model v4).
 - **Sound Effects:**
+    - "[Underwater Deep](https://pixabay.com/sound-effects/film-special-effects-underwater-deep-572427/)" by u_xg7ssi08yr from Pixabay.
     - "[Scuba_bubbles.mp3](https://freesound.org/s/634225/)" by sbvitug, licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/).
+    - [Loading Screen UI Click](https://pixabay.com/sound-effects/film-special-effects-video-game-bonus-323603/) by Universfield from Pixabay.
+    - [Splash Sound](https://pixabay.com/sound-effects/nature-water-splash-02-352021/) by Universfield from Pixabay.
