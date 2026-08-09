@@ -34,3 +34,4 @@
     - "[Scuba_bubbles.mp3](https://freesound.org/s/634225/)" by sbvitug, licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/).
     - [Loading Screen UI Click](https://pixabay.com/sound-effects/film-special-effects-video-game-bonus-323603/) by Universfield from Pixabay.
     - [Splash Sound](https://pixabay.com/sound-effects/nature-water-splash-02-352021/) by Universfield from Pixabay.
+    - [Flashlight Click](https://pixabay.com/sound-effects/film-special-effects-flashlight-102291/) by morganpurkis (Freesound) from Pixabay.
