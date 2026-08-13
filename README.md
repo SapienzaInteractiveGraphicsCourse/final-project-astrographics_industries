@@ -1,7 +1,11 @@
 # **OpenSCUBA**
 <img src="./logo_dark.png" alt="drawing" width="200"/>
 
-### **3D Models Credits**
+### **Overview**
+The presented project consists of a 3D interactive SCUBA diving experience. It is inspired from the [Endless Ocean series](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) by [ARIKA](https://en.wikipedia.org/wiki/Arika) and it aims to be an open-source alternative which resembles its characteristic chill underwater style and vibes.
+
+### **Credits**
+#### 3D Models
 - **Scuba Diver:** "[Nanando diver - Underwater](https://skfb.ly/oH88H)" by Marco Lopez, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
 - **Marine Creatures:**
@@ -26,7 +30,7 @@
         - "[crescent moon coral](https://skfb.ly/oSIDX)" by gavinpgamer1, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
         - "[Spined Sea Coral](https://skfb.ly/6wBzZ)" by RubaQewar, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
-### **Sounds Credits**
+#### Sounds
 - **Music:**
     - "Deep Ocean Dream", generated with Suno AI (Model v4).
 - **Sound Effects:**
@@ -35,3 +39,8 @@
     - [Loading Screen UI Click](https://pixabay.com/sound-effects/film-special-effects-video-game-bonus-323603/) by Universfield from Pixabay.
     - [Splash Sound](https://pixabay.com/sound-effects/nature-water-splash-02-352021/) by Universfield from Pixabay.
     - [Flashlight Click](https://pixabay.com/sound-effects/film-special-effects-flashlight-102291/) by morganpurkis (Freesound) from Pixabay.
+
+### **Licensing**
+This project is licensed by its author under the [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) license: anyone is free to edit it, provided that the proper attribution is provided and that no commercial use is made from it.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png" alt="drawing" width="100"/>
