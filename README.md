@@ -4,6 +4,14 @@
 ### **Overview**
 The presented project consists of a 3D interactive SCUBA diving experience. It is inspired from the [Endless Ocean series](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) by [ARIKA](https://en.wikipedia.org/wiki/Arika) and it aims to be an open-source alternative which resembles its characteristic chill underwater style and vibes.
 
+### **How to Play**
+The project is runnable directly from the browser at the following [link](https://sapienzainteractivegraphicscourse.github.io/final-project-astrographics_industries/).
+
+The **controls** are the following:
+- Use the **Mouse Cursor** to look around;
+- Hold the **Left Mouse Button** to move;
+- Press the **F key** to turn the flashlight on/off.
+
 ### **Credits**
 #### 3D Models
 - **Scuba Diver:** "[Nanando diver - Underwater](https://skfb.ly/oH88H)" by Marco Lopez, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
