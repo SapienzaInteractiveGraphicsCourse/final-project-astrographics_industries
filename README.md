@@ -11,6 +11,7 @@ The **controls** are the following:
 - Use the **Mouse Cursor** to look around;
 - Hold the **Left Mouse Button** to move;
 - Press the **F key** to turn the flashlight on/off.
+- Press the **H key** to show/hide the FPS counter.
 
 ### **Credits**
 #### 3D Models
@@ -30,6 +31,7 @@ The **controls** are the following:
     - "[Stránská rock 1](https://skfb.ly/69Zp7)" by 3dhdscan, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
     - "[NGI 000 - WP_A_8989](https://skfb.ly/pAA9X)" by VIRKM, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
     - "[Kelp Plant](https://skfb.ly/6yDHp)" by maxliebscher, licensed under [CC Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+    - "Flat Large Rock" (used as corals base rock), generated with Meshy AI.
     - **Corals:**
         - "[Giant barrel sponge monitoring DAX-AQS1-2019](https://skfb.ly/6SK6T)" by Lauren Olinger PhD, licensed under [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/).
         - "[Pocillopora eydouxi](https://skfb.ly/AwTZ)" by thehydrous, licensed under [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/).
