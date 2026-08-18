@@ -1,8 +1,13 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo_light.png">
+  <source media="(prefers-color-scheme: light)" srcset="./logo_dark.png">
+  <img alt="Project logo" src="./logo_light.png" width="200">
+</picture>
+
 # **OpenSCUBA**
-<img src="./logo_dark.png" alt="drawing" width="200"/>
 
 ### **Overview**
-The presented project consists of a 3D interactive SCUBA diving experience. It is inspired from the [Endless Ocean series](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) by [ARIKA](https://en.wikipedia.org/wiki/Arika) and it aims to be an open-source alternative which resembles its characteristic chill underwater style and vibes.
+The presented project consists of a 3D interactive SCUBA diving experience. It takes inspiration from the [*Endless Ocean*](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) series by [ARIKA](https://en.wikipedia.org/wiki/Arika) and aims to be an open-source alternative that captures its characteristic chill underwater style and vibe.
 
 ### **How to Play**
 The project is runnable directly from the browser at the following [link](https://sapienzainteractivegraphicscourse.github.io/final-project-astrographics_industries/).
@@ -13,7 +18,9 @@ The **controls** are the following:
 - Press the **F key** to turn the flashlight on/off.
 - Press the **H key** to show/hide the FPS counter.
 
-### **Credits**
+Any type of feedback is greatly appreciated!
+
+### **Assets Credits**
 #### 3D Models
 - **Scuba Diver:** "[Nanando diver - Underwater](https://skfb.ly/oH88H)" by Marco Lopez, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
