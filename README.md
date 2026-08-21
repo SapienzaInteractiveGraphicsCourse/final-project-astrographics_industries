@@ -10,7 +10,7 @@
 The presented project consists of a 3D interactive SCUBA diving experience. It takes inspiration from the [*Endless Ocean*](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) series by [ARIKA](https://en.wikipedia.org/wiki/Arika) and aims to be an open-source alternative that captures its characteristic chill underwater style and vibe.
 
 ### **How to Play**
-The project is runnable directly from the browser at the following [link](https://sapienzainteractivegraphicscourse.github.io/final-project-astrographics_industries/).
+The project is runnable directly from the browser at this [link](https://sapienzainteractivegraphicscourse.github.io/final-project-astrographics_industries/).
 
 The **controls** are the following:
 - Use the **Mouse Cursor** to look around;
@@ -58,6 +58,6 @@ Any type of feedback is greatly appreciated!
     - [Flashlight Click](https://pixabay.com/sound-effects/film-special-effects-flashlight-102291/) by morganpurkis (Freesound) from Pixabay.
 
 ### **Licensing**
-This project is licensed by its author under the [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) license: anyone is free to edit it, provided that the proper attribution is provided and that no commercial use is made from it.
+This project is licensed by its author under the [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) license: anyone is free to use and edit it, provided that the proper credits are given and that no commercial use is made from it.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png" alt="drawing" width="100"/>
