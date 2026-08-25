@@ -7,7 +7,9 @@
 # **OpenSCUBA**
 
 ### **Overview**
-The presented project consists of a 3D interactive SCUBA diving experience. It takes inspiration from the [*Endless Ocean*](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) series by [ARIKA](https://en.wikipedia.org/wiki/Arika) and aims to be an open-source alternative that captures its characteristic chill underwater style and vibe.
+The presented project consists of a [Three.js](https://threejs.org/)-based interactive 3D SCUBA diving experience. It takes inspiration from the [*Endless Ocean*](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) series by [ARIKA](https://en.wikipedia.org/wiki/Arika) and aims to be an open-source alternative that captures its characteristic chill underwater style and vibe.
+
+Further details about the project's features and their implementation are available in the [technical report](./report.pdf).
 
 ### **How to Play**
 The project is runnable directly from the browser at this [link](https://sapienzainteractivegraphicscourse.github.io/final-project-astrographics_industries/).
@@ -15,7 +17,7 @@ The project is runnable directly from the browser at this [link](https://sapienz
 The **controls** are the following:
 - Use the **Mouse Cursor** to look around;
 - Hold the **Left Mouse Button** to move;
-- Press the **F key** to turn the flashlight on/off.
+- Press the **F key** to turn the flashlight on/off;
 - Press the **H key** to show/hide the FPS counter.
 
 Any type of feedback is greatly appreciated!
