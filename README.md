@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./logo_light.png">
-  <source media="(prefers-color-scheme: light)" srcset="./logo_dark.png">
-  <img alt="Project logo" src="./logo_light.png" width="200">
-</picture>
+<img src="./logo_light.png#gh-dark-mode-only" alt="Project logo" width="200"> <img src="./logo_dark.png#gh-light-mode-only" alt="Project logo" width="200">
 
 # **OpenSCUBA**
 
@@ -21,6 +17,48 @@ The **controls** are the following:
 - Press the **H key** to show/hide the FPS counter.
 
 Any type of feedback is greatly appreciated!
+
+### **How to Build and Run Locally**
+
+1. **Install Node.js** (skip if already installed)
+   
+   1. Follow the [official installation instructions](https://nodejs.org/en/download).
+
+   2. Verify that Node.js is installed correctly:
+      ```bash
+      node --version
+      ```
+
+2. **Clone the Repository**
+    - HTTPS:
+        ```bash
+        git clone https://github.com/SapienzaInteractiveGraphicsCourse/final-project-astrographics_industries.git
+        ```
+    - SSH:
+        ```bash
+        git clone git@github.com:SapienzaInteractiveGraphicsCourse/final-project-astrographics_industries.git
+        ```
+
+3. **Enter the Repository Folder**
+    ```bash
+    cd ./final-project-astrographics_industries
+    ```
+
+4. **Install the Required Dependencies**
+   ```bash
+   npm install
+   ```
+
+5. **Run the Local Server**
+   ```bash
+   npx vite
+   ```
+
+6. **Open the App in a Browser**
+
+   Navigate to [`http://localhost:5173`](http://localhost:5173).
+
+   If the terminal displays a different port, navigate to the URL shown there instead.
 
 ### **Assets Credits**
 #### 3D Models
