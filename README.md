@@ -101,6 +101,9 @@ Supplementary textures were sourced primarily from [TextureLabs](https://texture
     - [Splash Sound](https://pixabay.com/sound-effects/nature-water-splash-02-352021/) by Universfield from Pixabay.
     - [Flashlight Click](https://pixabay.com/sound-effects/film-special-effects-flashlight-102291/) by morganpurkis (Freesound) from Pixabay.
 
+#### Project Logos
+The [light](./logo_light.png) and [dark](./logo_dark.png) versions of the *OpenSCUBA* logo were generated using ChatGPT.
+
 ### **Licensing**
 This project is licensed by its author under the [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) license: anyone is free to use and edit it, provided that the proper credits are given and that no commercial use is made from it.
 
