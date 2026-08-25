@@ -105,6 +105,8 @@ Supplementary textures were sourced primarily from [TextureLabs](https://texture
 The [light](./logo_light.png) and [dark](./logo_dark.png) versions of the *OpenSCUBA* logo were generated using ChatGPT.
 
 ### **Licensing**
-This project is licensed by its author under the [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) license: anyone is free to use and edit it, provided that the proper credits are given and that no commercial use is made from it.
+The original source code and the overall compilation of this project are licensed by its author under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Anyone is free to use, edit, and share this project, provided that proper credit is given, no commercial use is made, and any derivative works are shared under the same license.
+
+**Note on Third-Party Assets:** This license applies to the project "as is" and its original code. It does not override or re-license the third-party 3D models, textures, sounds, or open-source libraries used within. *All third-party assets retain their original respective licenses as detailed in the [Assets Credits](#assets-credits) section above.*
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png" alt="drawing" width="100"/>
