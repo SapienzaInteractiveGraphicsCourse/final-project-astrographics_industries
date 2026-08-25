@@ -87,6 +87,10 @@ Any type of feedback is greatly appreciated!
         - "[crescent moon coral](https://skfb.ly/oSIDX)" by gavinpgamer1, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
         - "[Spined Sea Coral](https://skfb.ly/6wBzZ)" by RubaQewar, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
+#### Textures
+Embedded textures within the models' `.glb` files were used whenever available.
+Supplementary textures were sourced primarily from [TextureLabs](https://texturelabs.org/), while the roughness, normal, and Ambient Occlusion (AO) maps for the seabed were provided by [ambientCG](https://ambientcg.com/).
+
 #### Sounds
 - **Music:**
     - "Deep Ocean Dream", generated with Suno AI (Model v4).
