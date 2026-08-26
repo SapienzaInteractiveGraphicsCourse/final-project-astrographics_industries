@@ -5,7 +5,7 @@
 ### **Overview**
 The presented project consists of a [Three.js](https://threejs.org/)-based interactive 3D SCUBA diving experience. It takes inspiration from the [*Endless Ocean*](https://nintendo.fandom.com/wiki/Endless_Ocean_(series)) series by [ARIKA](https://en.wikipedia.org/wiki/Arika) and aims to be an open-source alternative that captures its characteristic chill underwater style and vibe.
 
-Further details about the project's features and their implementation are available in the [technical report](./report.pdf).
+Further details about the project's features and their implementation are available in the [technical report](./docs/report.pdf).
 
 ### **How to Play**
 The project is runnable directly from the browser at this [link](https://sapienzainteractivegraphicscourse.github.io/final-project-astrographics_industries/).
